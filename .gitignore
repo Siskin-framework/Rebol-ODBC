@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/.github
+!/.editorconfig
+!/rebol
+!/src
+!/test
+!/*.nest
+!README.md
